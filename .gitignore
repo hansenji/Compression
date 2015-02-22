@@ -10,3 +10,25 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+
+
+.idea
+*.iml
+
+in.txt
+in.hc
+test
+DecompressionTree.png
+DecompressionTable.csv
+in
+CompressionTree.png
+in.bin
+in.hex
+test.hc
+CompressionTable.csv
+DecompressionTree.dot
+tmp.txt
+CompressionTree.dot
+test.txt
+src/com/vikingsen/compression/Main.java
